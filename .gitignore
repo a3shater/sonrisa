@@ -1,0 +1,6 @@
+assets/css/*.css
+!assets/css/main.css
+assets/js/*.js
+!assets/js/main.js
+**/webfonts/
+/demo.jpg
